@@ -1,0 +1,26 @@
+#divClass > h1 {
+    color: cornflowerblue; } 
+#thirdDiv > ul > li > img {
+        width:400px ;
+} 
+#thirdDiv {
+        height: 600px; 
+        width: 500px;
+        background-color: rgb(144, 135, 222);
+        padding: 50px;
+        border: solid 6px black
+}
+    spanId{
+        font-size: 18px;
+        margin: 50px;
+}
+body {background-image: url(https://previews.123rf.com/images/ollymolly2015/ollymolly20151604/ollymolly2015160400083/55855064-baking-doodle-background-vector-seamless-pattern-with-kitchen-tools-hand-drawn-baking-utensils-.jpg) ;
+margin-left: auto;
+margin-right: auto;
+display: flex;
+justify-content: center;}
+
+   
+div{margin-left:auto ;
+margin-right: auto;
+}
